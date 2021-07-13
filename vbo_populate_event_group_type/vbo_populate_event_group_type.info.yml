@@ -1,0 +1,4 @@
+name: VBO Populate Event Group Type
+type: module
+description: 'Set the event group type field'
+core: 8.x
