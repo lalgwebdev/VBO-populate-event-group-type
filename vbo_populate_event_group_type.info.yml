@@ -1,5 +1,6 @@
-name: VBO Populate Event Group Type
 type: module
+name: VBO Populate Event Group Type
 description: 'Set the event group type field'
-core: 8.x
+package: 'Custom'
+core_version_requirement: ^8.8 || ^9
 version: '1.0'
