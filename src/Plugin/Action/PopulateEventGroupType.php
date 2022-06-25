@@ -64,6 +64,7 @@ class PopulateEventGroupType extends ViewsBulkOperationsActionBase {
 
     // Other entity types may have different
     // access methods and properties.
-    return TRUE;
+    // return TRUE;
+    return $object->access('update', $account, $return_as_object);
   }
 }
